@@ -1,7 +1,5 @@
 #!/usr/bin/python
-import numpy as N
 import wave
-
 
 wav1 = wave.open( 'note1.wav', 'r' )
 wav2 = wave.open( 'note3.wav', 'r' )

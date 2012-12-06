@@ -1,7 +1,5 @@
 #!/usr/bin/python
-import numpy as N
 import wave
-
 
 wav = wave.open( 'scale.wav', 'r' )
 
